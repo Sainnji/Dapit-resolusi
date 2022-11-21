@@ -1,6 +1,9 @@
 Rencana konten Dapit 
 
 - Belajar animasi
+1.Membuat gambar bergerak
+2.Membuat shader 
+3.Memperaktekkan langsung
 - Belajar software mmd
 - Menambah model mmd
 - Mengoleksi musik no copyright
